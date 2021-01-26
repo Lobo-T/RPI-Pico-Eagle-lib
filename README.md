@@ -5,10 +5,10 @@ Based on Raspberrys KiCad footprint and the Mechanical Specification from the Pi
 
 Not actually tested yet.  Please check everything before using this for ordering PCBs.
 
-**Schematic symbol:
+**Schematic symbol:**
 
 ![Image of Schematic symbol](https://github.com/Lobo-T/RPI-Pico-Eagle-lib/blob/main/rpi_sch.png)
 
-**Board footprints:
+**Board footprints:**
 
 ![Image of Board footprints](https://github.com/Lobo-T/RPI-Pico-Eagle-lib/blob/main/rpi_brd.png)
