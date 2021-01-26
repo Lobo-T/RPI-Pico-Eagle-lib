@@ -672,7 +672,7 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="RASPBERRY_PICO">
+<deviceset name="RASPBERRY_PICO" prefix="U">
 <description>Raspberry Pi Pico</description>
 <gates>
 <gate name="U$1" symbol="PICO-SYM" x="0" y="-20.32"/>
