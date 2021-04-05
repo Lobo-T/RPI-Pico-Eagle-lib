@@ -3,7 +3,6 @@ Raspberry Pi Pico Eagle library
 
 Based on Raspberrys KiCad footprint and the Mechanical Specification from the Pico datasheet.
 
-Not actually tested yet.  Please check everything before using this for ordering PCBs.
 
 **Schematic symbol:**
 
